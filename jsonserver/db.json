@@ -1,0 +1,24 @@
+{
+  "blogposts": [
+    {
+      "title": "The Awesome Programming Languages to Learn in 2021",
+      "content": "Coding languages are ever-evolving just like any other professional area. Some technologies become top-rated, some loose their prime positions and it’s no longer wise to spend time learning them. For a tech newbie striving to learn programming, it might be a bit complicated to figure out which technology to choose. Let me help you out. As a Senior Java developer and a long-term tutor, I can share some advice on the most popular programming languages. Here’s my shortlist of the winners.",
+      "id": 2
+    },
+    {
+      "title": "Management Basics: Determining a Performance Rating",
+      "content": "One of the most stressful parts of the end-of-year process for managers is the dreaded performance rating. This process forces you to boil down all of the work that a person did over the year, all of their accomplishments and misses, into a numeric score (often from 1–5) that may also come with words like ‘meets expectations’, ‘exceeds expectations’, or the unhappy ‘misses expectations’.",
+      "id": 4
+    },
+    {
+      "title": "Why you shouldn’t join the AI industry in 2021",
+      "content": "Disclaimer: These opinions are mine and mine only. You may choose to agree or disagree with them. And yes, some examples are hyperboles, please take them with a pinch of salt. :)\nWhy you shouldn’t join AI\nYou want to get rich.\nLet’s get the elephant out of the room. As the words “Artificial Intelligence” and “Machine Learning” get plastered all over the media with…\n",
+      "id": 5
+    },
+    {
+      "title": "You should probably learn TypeScript",
+      "content": "It's certainly always valid to compare and contrast... Especially as a project decision maker. The pros and cons are very relevant, but as an individual developer, these tradeoffs should not affect your decisions on whether to explicitly take the time to learn this technology.\n\nLearn TypeScript in order to be more employable because of the popularity of this approach to JavaScript, but also learn TypeScript because it is going to open you to new paradigms you might otherwise neglect.\n\nAs far as bang-for-your-buck goes, it's probably one of the more valuable learning opportunities out there right now. It's trendy and popular, but it is hardly \"hipster technology\". You are going to get a lot out of learning this programming language.",
+      "id": 6
+    }
+  ]
+}
